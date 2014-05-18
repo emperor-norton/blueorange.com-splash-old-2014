@@ -24,6 +24,10 @@ body {
 	font-family:"Segoe UI", "Segoe WP", "Helvetica Neue", "Roboto", sans-serif;
 }
 
+body, html {
+    height: 100%;
+}
+
 @media (min-width:992px) {
 	.container {
 	width:984px;
